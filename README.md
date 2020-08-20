@@ -1,6 +1,5 @@
 ### Hi, I am Evan
 
-[![Anurag's github stats](https://github-readme-language.vercel.app/api?username=evanwire)](https://github.com/anuraghazra/github-language-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire)](https://github.com/evanwire/github-readme-stats)
 
 

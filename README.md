@@ -1,5 +1,7 @@
 ### Hello, I am Evan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+While I keep a low social media presence, feel free to reach out to me on linkedin! <a href="https://www.linkedin.com/in/evan-wireman-b57155189" rel="nofollow"><img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/linkedin.svg" style="max-width:100%;"></a>
+
 Here is a little info about me:
 - I am a Junior at Rutgers University studying computer science and statistics
 - I am currently working as a Data Science Intern for Colgate Palmolive

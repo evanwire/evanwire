@@ -7,7 +7,7 @@ Here is a little info about me:
 - I am currently working as a Data Science Intern for Colgate Palmolive
 - In addition to coding, I love playing the guitar, reading, and trading stocks 
 
-**languages and tools:**  
+**My Most Used Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -21,7 +21,7 @@ Here is a little info about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📈 my github stats
+📈My GitHub Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&show_icons=true&theme=tokyonight" alt="evanwire" />
  
 

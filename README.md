@@ -10,7 +10,7 @@ Here is a little info about me:
 
 **My Most Used Languages and Tools:**  
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

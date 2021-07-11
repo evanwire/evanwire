@@ -8,11 +8,11 @@ Here is a little info about me:
 - In addition to coding, I love playing the guitar, reading, and trading stocks
 - I am currently writing about some of my tech interestes on <a href="https://ewire77.medium.com/" rel="nofollow"><b>Medium.</b></a>
 
-<p align="center"> **My Most Used Languages and Tools:**  </p>
+<p align="center"><b>My Most Used Languages and Tools:</b></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook" alt="evanwire" />
 
-<p align="center"> **My GitHub Stats:** </p>
+<p align="center"><b>My GitHub Stats:</b></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&count_private=true&show_icons=true&theme=tokyonight" alt="evanwire" />
  
 

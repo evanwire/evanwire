@@ -5,7 +5,8 @@ While I keep a low social media presence, feel free to reach out to me on linked
 Here is a little info about me:
 - I am a graduate student at the University of Wisconsin working towards a MS in Computer Science
 - I am currently working as a Data Science Intern for Colgate Palmolive
-- In addition to coding, I love playing the guitar, reading, and trading stocks 
+- In addition to coding, I love playing the guitar, reading, and trading stocks
+- I am currently writing about some of my tech interestes on <a href="https://ewire77.medium.com/" rel="nofollow"><b>Medium.</b></a>
 
 **My Most Used Languages and Tools:**  
 

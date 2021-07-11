@@ -8,7 +8,7 @@ Here is a little info about me:
 - In addition to coding, I love playing the guitar, reading, and trading stocks 
 
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&show_icons=true&theme=gotham" alt="evanwire" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&show_icons=true&theme=tokyonight" alt="evanwire" />
  
 
 

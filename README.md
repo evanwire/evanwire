@@ -7,6 +7,7 @@ Here is a little info about me:
 - I am currently working as a Data Science Intern for Colgate Palmolive
 - In addition to coding, I love playing the guitar, reading, and trading stocks
 - I am currently writing about some of my tech interestes on <a href="https://ewire77.medium.com/" rel="nofollow"><b>Medium.</b></a>
+<br>
 
 <p align="center"><b>My Most Used Languages and Tools:</b></p>
 

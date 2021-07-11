@@ -12,7 +12,7 @@ Here is a little info about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook" alt="evanwire" />
 
 📈 **My GitHub Stats:**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&count_private=true&show_icons=true&theme=tokyonight" alt="evanwire" />

@@ -10,11 +10,11 @@ Here is a little info about me:
 
 **My Most Used Languages and Tools:**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook)]
 
 
 
-📈My GitHub Stats:
+📈 **My GitHub Stats:**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&count_private=true&show_icons=true&theme=tokyonight" alt="evanwire" />
  
 

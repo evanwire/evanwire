@@ -7,8 +7,8 @@ Here is a little info about me:
 - I am currently working as a Data Science Intern for Colgate Palmolive
 - In addition to coding, I love playing the guitar, reading, and trading stocks 
 
-![Evan's github stats](https://github-readme-stats.vercel.app/api?username=evanwire&theme=tokyonight&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&layout=compact&theme=tokyonight)](https://github.com/evanwire/github-readme-stats) 
+📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&show_icons=true&theme=gotham" alt="evanwire" />
  
 
 

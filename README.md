@@ -11,10 +11,10 @@ Here is a little info about me:
 
 <p align="center"><b>My Most Used Languages and Tools:</b></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook" alt="evanwire" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanwire&hide=jupyter%20notebook&theme=vue" alt="evanwire" />
 
 <p align="center"><b>My GitHub Stats:</b></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&count_private=true&show_icons=true&theme=tokyonight" alt="evanwire" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=evanwire&count_private=true&show_icons=true&theme=vue" alt="evanwire" />
  
 
 
